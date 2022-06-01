@@ -25,8 +25,8 @@ body{
     justify-content: flex-start;
     align-items: center;
     background-color: hsl(0, 0%, 100%);
-    width: 24rem ;
-    height: 37rem;
+    width: 27rem ;
+    height: 40rem;
     padding: 1.2rem 1rem 1rem;
     border-radius: 1.5rem;
     box-shadow: 0.3rem 0.3rem 0.5rem hsl(219, 15%, 55%);
@@ -34,21 +34,20 @@ body{
 
 .card__img img {
 
-    width: 23rem;
+    width: 26rem;
     border-radius: 1rem;
 
 }
 
 p{
-    font-size: 1.9rem;
-    text-align: center;
-    
+    text-align: center;   
 }
 
 .card__title p{
     color: hsl(218, 44%, 22%);
+    font-size: 1.9rem;
     font-weight: 700;
-    margin: 1rem 0rem;
+    margin: 1rem 1rem;
 
 }
 
